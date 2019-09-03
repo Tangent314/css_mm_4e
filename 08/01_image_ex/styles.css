@@ -59,7 +59,13 @@ p {
 	clear: both;
 }
 /* add your styles below here */
-
+img.figure {
+	float: right;
+	margin: 10px;
+	border: 1px solid #666;
+	background-color: #CCC;
+	padding: 10px;
+}
 
 
 
